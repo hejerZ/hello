@@ -1,0 +1,11 @@
+vetements:
+	les capuches 
+	chaussures blanc bershka ou pull and bear 
+parapharmacie:
+	dentifrice *2 
+	bain de bouche *2 
+	créme anti-ride 
+	huile de romarin
+	huile de menthe
+tresors:
+	shampoings
