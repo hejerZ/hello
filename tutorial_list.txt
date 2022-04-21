@@ -1,3 +1,10 @@
-hello Hejer
-
-I want to inform you that you need to work hard for success
+Tutorial plan 
+   Devops
+      process
+      scrum
+      git
+          linux
+             vim 
+      python
+      docker
+      jenkins
